@@ -8,6 +8,7 @@ This project has a responsive UI and was prepared using icons and hover effects.
 
 - HTML
 - CSS
+- JS
 
 
 # ScreenShot
